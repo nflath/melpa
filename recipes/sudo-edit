@@ -1,0 +1,3 @@
+(mv-shell
+ :url "https://github.com/nflath/sudo-edit.git"
+ :fetcher git)
